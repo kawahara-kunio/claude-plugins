@@ -1,0 +1,14 @@
+{
+  "name": "my-market-place",
+  "version": "1.0.5",
+  "owner": {
+    "name": "kawahara2"
+  },
+  "plugins": [
+    {
+      "name": "test-kawahara",
+      "source": "./plugins/test-kawahara",
+      "description": "初めてのプラグイン"
+    }
+  ]
+}

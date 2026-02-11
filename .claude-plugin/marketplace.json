@@ -1,0 +1,15 @@
+{
+  "name": "my-marcket-place",
+  "owner": {
+    "name": "kawahara",
+    "email": "kawahara.kunio@classmethod.jp"
+  },
+  "plugins": [
+    {
+      "name": "test-kawahara",
+      "source": "./plugins/test-plugin",
+      "description": "初めてのプラグイン",
+      "version": "1.0.0"
+    }
+  ]
+}
